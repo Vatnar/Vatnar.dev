@@ -11,6 +11,14 @@ Vatnar chess bot
 - ultra fast c# bot
 - 2800 rated
 
-### Hobbies
+### Gaming
+Rocket League 
+-Grand champ since S5
+
+Minecraft veteran
+
+
+### Type speed
+140 WPM
 
 
