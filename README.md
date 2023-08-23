@@ -1,4 +1,4 @@
-# Student
+# Portfolio
 
 #### Technical Skills: C++, C#, Python, Blender 
 
