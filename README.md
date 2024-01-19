@@ -1,6 +1,6 @@
 # Portfolio
 
-#### Technical Skills: C++, C#, Python, Blender 
+#### Technical Skills: C++, C#.
 
 
 ## Education
@@ -20,15 +20,3 @@ Re Videregående skole
 ## Projects
 ### Coming soon...
 ### Coming soon...
-
-
-## Hobbies
-### Gaming
-#### Rocket League 
-- ###### Grand champ since S5
-#### Minecraft veteran
-
-
-### Music
-###### Playing piano since 2018
-###### Making music in FL Studio since 2019
