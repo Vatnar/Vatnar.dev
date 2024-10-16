@@ -1,6 +1,6 @@
 # Portfolio
 
-#### Technical Skills: C++, C#, Unity, Blender, Davinci Resolve, Fruity Loops studio, etc.
+#### Technical Skills: C, C++, C#, Python, Godot, Blender, Fruity Loops studio.
 
 
 ## Education
