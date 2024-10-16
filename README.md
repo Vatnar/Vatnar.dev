@@ -15,7 +15,7 @@ Bachelor in Software Development at UIA, Grimstad
 
 
 ## Projects
-#### Indie 2d Game made in Unity cooparatively
-#### Standalone game engine in CPP
-#### This is it! - Peter Vatnar Andersson, Spotify, Apple Music, Amazon, Deezer, etc.
+#### Godot hobbyist
+#### Standalone game engine in CPP (still early in process)
+#### This is it! - Peter Vatnar Andersson, Spotify, [Apple Music](https://music.apple.com/in/album/this-is-it-single/1699318098), Amazon, Deezer, etc. 
 #### Various minor movie and art projects
