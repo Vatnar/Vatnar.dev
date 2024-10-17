@@ -5,12 +5,12 @@
 
 ## Education
 #### 2011 - 2021
-##### 1 - 10 klasse   Elihuskolen, Tønsberg. 
+1 - 10th grade Elihuskolen, Tønsberg. 
 
-#### August 21 – Juni 2024  
-##### Completed 3 years: Studiespesialisering, Realfag Re Videregående skole  
+#### August 2021 – June 2024  
+Completed 3 years: Studiespesialisering, Realfag Re Videregående skole  
 
-#### August 2024 - 2027
+#### August 2024 - June 2027
 Bachelor in Software Development at UIA, Grimstad
 
 
