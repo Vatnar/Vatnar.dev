@@ -1,6 +1,6 @@
 # Portfolio
 
-#### Technical Skills: C, C++, C#, Python, Godot, Blender, Fruity Loops studio.
+#### Technical Skills: C, C++, C#, Python, Docker, Bash, JS, HTML, CSS.
 
 
 ## Education
@@ -15,7 +15,8 @@ Bachelor in Software Development at UIA, Grimstad
 
 
 ## Projects
-#### Godot hobbyist
-#### Standalone game engine in CPP (still early in process)
+#### Various C++ and C projects
+#### VST in Juce (C++)
+#### Socket for transmitting audio between two computers on the same local network.
 #### This is it! - Peter Vatnar Andersson, Spotify, [Apple Music](https://music.apple.com/in/album/this-is-it-single/1699318098), Amazon, Deezer, etc. 
 #### Various minor movie and art projects
