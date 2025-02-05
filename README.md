@@ -2,7 +2,6 @@
 
 #### Technical Skills: C, C++, C#, Python, Docker, Bash, JS, HTML, CSS.
 
-
 ## Education
 #### 2011 - 2021
 1 - 10th grade Elihuskolen, Tønsberg. 
@@ -13,6 +12,9 @@ Completed 3 years: Studiespesialisering, Realfag Re Videregående skole
 #### August 2024 - June 2027
 Bachelor in Software Development at UIA, Grimstad
 
+## CVs
+- [English CV](https://drive.google.com/file/d/1ZME8nkw22L2PevCl_SZEL8mNk98KOBOI/view?usp=drivesdk)
+- [Norwegian CV](https://drive.google.com/file/d/1WuUyN9vzR87WhJVgN0MtRr9WWoT5BSg6/view?usp=drivesdk)
 
 ## Projects
 #### Various C++ and C projects
